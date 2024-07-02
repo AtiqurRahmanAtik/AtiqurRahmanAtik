@@ -26,5 +26,5 @@
   <a><img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_1280.png" alt="tailwind" width="40" height="40"/> </a> 
 </p>
 
-<h3 align="center" color="red">Current Stats </h3>
+<h3 align="center" color="red"> <img src="https://www.shutterstock.com/shutterstock/photos/289917674/display_1500/stock-vector-stock-market-icon-from-business-bicolor-set-this-flat-vector-symbol-uses-yellow-color-rounded-289917674.jpg" alt="stats"/> Current Stats </h3>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atiqurrahmanatik&" alt="atiqurrahmanatik" /></p>
