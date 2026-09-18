@@ -7,11 +7,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atiqurrahmanatik&label=Profile%20views&color=0e75b6&style=flat" alt="atiqurrahmanatik" /> </p>
 
 
-- 🌱 I’m currently learning : **Next js**
+- 🌱 I’m currently learning : **PostgreSQL, Prisma, Nest js, **
 
-- 💬 Ask me about : **React js,JavaScript ,Tailwind CSS, CSS And Html**
+- 💬 Ask me about : ** Next js , Node js , Express, React. js, JavaScript, Tailwind CSS, CSS and HTML **
 
-- 📫 How to reach me : **atikahmedtanvir80@gmail.com**
+- 📫 How to reach me: **atikahmedtanvir80@gmail.com**
 
 - ⚡ Fun fact : **I Think I am Funny😁😊**
 
